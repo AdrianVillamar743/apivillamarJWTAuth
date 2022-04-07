@@ -89,7 +89,7 @@ C:\xampp\htdocs\proyectos\apivillamarJWTAuth\config\auth.php para modificar el a
 Claro buscamos los arrays de existir los modificamos o sobreescribimos o agregamos.
 
 
-15.- Nos dirigiremos al archivo User.php para modificar lo siguiente
+15.- Nos dirigiremos al archivo User.php en la ruta app/Models para modificar lo siguiente
 
 use Tymon\JWTAuth\Contracts\JWTSubject;
 
